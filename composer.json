@@ -1,0 +1,56 @@
+{
+    "name": "tarfin-labs/laravel-pos",
+    "description": "laravel pos package",
+    "keywords": [
+        "tarfin-labs",
+        "laravel-pos"
+    ],
+    "homepage": "https://github.com/tarfin-labs/laravel-pos",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hakan özdemir",
+            "email": "hakanozdemirr@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "guzzlehttp/guzzle": "^7.2",
+        "illuminate/support": "^8.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.3",
+        "mockery/mockery": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TarfinLabs\\LaravelPos\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TarfinLabs\\LaravelPos\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TarfinLabs\\LaravelPos\\LaravelPosServiceProvider"
+            ],
+            "aliases": {
+                "LaravelPos": "TarfinLabs\\LaravelPos\\LaravelPosFacade"
+            }
+        }
+    }
+}
