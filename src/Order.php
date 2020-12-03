@@ -7,17 +7,17 @@ namespace TarfinLabs\LaravelPos;
 class Order
 {
     protected $id;
-    protected string $amount;
-    protected string $installment;
+    protected float $amount;
+    protected ?int $installment;
     protected string $rnd;
 
     /**
      * Order constructor.
      * @param $id
-     * @param  string  $amount
-     * @param  string  $installment
+     * @param float $amount
+     * @param int $installment
      */
-    public function __construct($id, string $amount, string $installment)
+    public function __construct($id, float $amount, int $installment = null)
     {
         $this->id = $id;
         $this->amount = $amount;
@@ -42,9 +42,9 @@ class Order
     }
 
     /**
-     * @return string
+     * @return int|null
      */
-    public function getInstallment(): string
+    public function getInstallment(): ?int
     {
         return $this->installment;
     }

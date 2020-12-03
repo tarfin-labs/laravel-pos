@@ -65,7 +65,8 @@ class PaymentBuilder
     public function bank(string $bank): PaymentBuilder
     {
         $this->bank = $bank;
-        $this->bankConfig = config('laravel-pos.banks'.$this->bank);
+        $this->bankConfig = config('laravel-pos.banks.'.$this->bank);
+
         return $this;
     }
 
@@ -94,7 +95,6 @@ class PaymentBuilder
     protected function build()
     {
         $hash = $this->generateHash();
-
 
         return [
             'pan'                             => $this->card->getNumber(),

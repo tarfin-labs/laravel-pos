@@ -6,6 +6,7 @@ namespace TarfinLabs\LaravelPos\Tests;
 
 use PHPUnit\Framework\TestCase;
 use TarfinLabs\LaravelPos\Card;
+use TarfinLabs\LaravelPos\Order;
 use TarfinLabs\LaravelPos\PaymentBuilder;
 
 class LaravelPosTest extends TestCase
