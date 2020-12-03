@@ -18,9 +18,9 @@ class CreateLaravelPosTransactionsTable extends Migration
             $table->nullableMorphs('billable');
             $table->string('order_id')->unique();
 
-            $table->string('transaction_id');
+            $table->string('transaction_id')->nullable();
             $table->string('masked_credit_card');
-            $table->string('card_brand');
+            $table->string('card_brand')->nullable();
 
             $table->string('amount');
             $table->integer('installment');
@@ -28,7 +28,7 @@ class CreateLaravelPosTransactionsTable extends Migration
 
             $table->tinyInteger('status');
 
-            $table->dateTime('paid_at');
+            $table->dateTime('paid_at')->nullable();
             $table->timestamps();
         });
     }

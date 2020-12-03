@@ -35,15 +35,12 @@ trait ManagesTransactions
     protected function handlePaymentFailed(array $response)
     {
         $transaction = [
-            'transaction_id'     => $response['TransId'],
-            'order_id'           => $response['ReturnOid'],
-            'card_brand'         => $response['EXTRA_CARDBRAND'],
+            'order_id'           => $response['oid'],
             'masked_credit_card' => $response['maskedCreditCard'],
             'amount'             => $response['amount'],
             'installment'        => $response['taksit'],
             'currency'           => $response['currency'],
             'status'             => false,
-            'paid_at'            => Carbon::parse($response['EXTRA_TRXDATE'])
         ];
 
         return $this->transactions()->create($transaction);
@@ -51,7 +48,7 @@ trait ManagesTransactions
 
     public function handlePayment(array $response)
     {
-        if ($response['Response'] == 'Approved') {
+        if (!empty($response['Response']) && $response['Response'] == 'Approved') {
             return $this->handlePaymentSucceeded($response);
         } else {
             return $this->handlePaymentFailed($response);
