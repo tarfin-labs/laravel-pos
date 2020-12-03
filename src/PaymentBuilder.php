@@ -116,6 +116,7 @@ class PaymentBuilder
             'storetype'                       => $this->storeType,
             'lang'                            => config('laravel-pos.locale'),
             'currency'                        => config('laravel-pos.currency'),
+            'bank'                            => $this->bank,
         ];
     }
 

@@ -47,9 +47,35 @@ trait ManagesTransactions
         return $this->transactions()->create($transaction);
     }
 
+    protected function check3DHash(array $data)
+    {
+        $storeKey = config('laravel-pos.banks.'.$data['bank'].'.store_key');
+
+        $hashParams = $data['HASHPARAMS'];
+        $hashParamsVal = $data['HASHPARAMSVAL'];
+        $hashParam = $data['HASH'];
+        $paramsVal = '';
+
+        $hashParamsList = explode(':', $hashParams);
+        foreach ($hashParamsList as $value) {
+            if (!empty($value) && isset($data[$value])) {
+                $paramsVal = $paramsVal.$data[$value];
+            }
+        }
+
+        $hashVal = $paramsVal.$storeKey;
+        $hash = base64_encode(sha1($hashVal, true));
+
+        if ($hashParams && !($paramsVal != $hashParamsVal || $hashParam != $hash)) {
+            return true;
+        }
+
+        return false;
+    }
+
     public function handlePayment(array $response)
     {
-        if (!empty($response['Response']) && $response['Response'] == 'Approved') {
+        if ($this->check3DHash($response) && !empty($response['Response']) && $response['Response'] == 'Approved') {
             return $this->handlePaymentSucceeded($response);
         } else {
             return $this->handlePaymentFailed($response);
