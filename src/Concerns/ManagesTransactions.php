@@ -41,6 +41,7 @@ trait ManagesTransactions
             'installment'        => $response['taksit'],
             'currency'           => $response['currency'],
             'status'             => false,
+            'error_code'         => $response['ProcReturnCode'] ?? null,
         ];
 
         return $this->transactions()->create($transaction);
