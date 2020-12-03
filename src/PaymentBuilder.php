@@ -16,6 +16,7 @@ class PaymentBuilder
     protected Order $order;
     protected string $processType = 'Auth';
     protected string $storeType = '3d_pay';
+    protected string $ip;
 
     /**
      * @param  string  $okUrl
@@ -120,6 +121,6 @@ class PaymentBuilder
 
     public function charge()
     {
-        return Http::post($this->bankConfig['base_url'], $this->build());
+        return Http::asForm()->post($this->bankConfig['base_url'], $this->build());
     }
 }
