@@ -19,7 +19,7 @@ trait ManagesTransactions
     {
         $transaction = [
             'transaction_id'     => $response['TransId'],
-            'order_id'           => $response['ReturnOid'],
+            'order_id'           => $response['oid'],
             'card_brand'         => $response['EXTRA_CARDBRAND'],
             'masked_credit_card' => $response['maskedCreditCard'],
             'amount'             => $response['amount'],
@@ -47,7 +47,7 @@ trait ManagesTransactions
         return $this->transactions()->create($transaction);
     }
 
-    protected function check3DHash(array $data)
+    public function check3DHash(array $data): bool
     {
         $storeKey = config('laravel-pos.banks.'.$data['bank'].'.store_key');
 

@@ -14,16 +14,10 @@
             <directory>tests</directory>
         </testsuite>
     </testsuites>
-    <filter>
-        <whitelist>
-            <directory suffix=".php">src/</directory>
-        </whitelist>
-    </filter>
-    <logging>
-        <log type="tap" target="build/report.tap"/>
-        <log type="junit" target="build/report.junit.xml"/>
-        <log type="coverage-html" target="build/coverage" charset="UTF-8" yui="true" highlight="true"/>
-        <log type="coverage-text" target="build/coverage.txt"/>
-        <log type="coverage-clover" target="build/logs/clover.xml"/>
-    </logging>
+    <php>
+        <env name="DB_CONNECTION" value="testing"/>
+        <env name="LARAVEL_POS_ZIRAAT_BASE_URL" value="https://entegrasyon.asseco-see.com.tr/fim/est3Dgate"/>
+        <env name="LARAVEL_POS_ZIRAAT_MERCHANT_ID" value="190200000"/>
+        <env name="LARAVEL_POS_ZIRAAT_STORE_KEY" value="123456"/>
+    </php>
 </phpunit>
