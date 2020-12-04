@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 use TarfinLabs\LaravelPos\Card;
 use TarfinLabs\LaravelPos\Exceptions\CardException;
 
-class CardTest extends TestCase
+class CardTest extends FeatureTestCase
 {
     /**
      * @test
@@ -38,5 +38,17 @@ class CardTest extends TestCase
         $this->expectException(CardException::class);
 
         $card = new Card('1234401341234567891', '', '', '', '');
+    }
+
+
+    /**
+     * @test
+     */
+    public function TestDetectBankFromBinNumber(){
+        $card = new Card('5401341234567891', '', '', '', '');
+
+        $foo = $card->getCardIssuer();
+
+        $this->assertSame($foo, 'T.C.ZİRAAT BANKASI A.Ş.');
     }
 }

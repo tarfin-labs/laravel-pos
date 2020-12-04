@@ -18,10 +18,6 @@ class Card
     protected string $holderName;
     protected string $type;
 
-    protected $bin = [
-        'ziraat' => [],
-    ];
-
     /**
      * Card constructor.
      * @param  string  $number
@@ -43,6 +39,7 @@ class Card
         $this->cvv = $cvv;
         $this->holderName = $holderName;
         $this->type = $this->getCardBrand();
+
     }
 
     /**
@@ -64,7 +61,23 @@ class Card
 
     public function getCardIssuer()
     {
+        $file = file_get_contents(config('laravel-pos.bin_file_path'));
+        if (!$file){
+            return config('laravel-pos.default_bank');
+        }
 
+        $binList = json_decode($file, true);
+
+        $foundBin = array_filter($binList, function ($item) {
+            return $item['bin'] == substr($this->number,0,6);
+        });
+
+        if (count($foundBin) > 0){
+            return $foundBin[key($foundBin)]['bank'];
+        }
+        else{
+            return config('laravel-pos.default_bank');
+        }
     }
 
     /**
