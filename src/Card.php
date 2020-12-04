@@ -18,6 +18,10 @@ class Card
     protected string $holderName;
     protected string $type;
 
+    protected $bin = [
+        'ziraat' => [],
+    ];
+
     /**
      * Card constructor.
      * @param  string  $number
@@ -56,6 +60,11 @@ class Card
         }
 
         throw new CardException('Invalid card brand.');
+    }
+
+    public function getCardIssuer()
+    {
+
     }
 
     /**
