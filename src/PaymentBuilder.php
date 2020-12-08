@@ -14,6 +14,7 @@ class PaymentBuilder
     protected Card $card;
     protected array $bankConfig;
     protected Order $order;
+    protected Customer $customer;
     protected string $processType = 'Auth';
     protected string $storeType = '3d_pay';
     protected string $ip;
@@ -64,7 +65,21 @@ class PaymentBuilder
     public function order(Order $order): PaymentBuilder
     {
         $this->order = $order;
+
         return $this;
+    }
+
+    /**
+     * Set customer object to the PaymentBuilder.
+     *
+     * @param Customer $customer
+     * @return $this
+     */
+    public function customer(Customer $customer): PaymentBuilder
+    {
+        $this->customer = $customer;
+
+        return  $this;
     }
 
     /**
@@ -161,7 +176,7 @@ class PaymentBuilder
 
         $hash = $this->generateHash();
 
-        return [
+        $requestParams = [
             'pan'                             => $this->card->getNumber(),
             'cv2'                             => $this->card->getCvv(),
             'Ecom_Payment_Card_ExpDate_Year'  => $this->card->getExpireYear(),
@@ -182,6 +197,10 @@ class PaymentBuilder
             'currency'                        => config('laravel-pos.currency'),
             'bank'                            => $this->bank,
         ];
+
+        $requestParams = array_merge($requestParams, $this->customer);
+
+        return $requestParams;
     }
 
     /**
