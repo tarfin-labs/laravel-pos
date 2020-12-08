@@ -21,11 +21,13 @@ class Card
 
     /**
      * Card constructor.
-     * @param  string  $number
-     * @param  string  $expireYear
-     * @param  string  $expireMonth
-     * @param  string  $cvv
-     * @param  string  $holderName
+     *
+     * @param string $number
+     * @param string $expireYear
+     * @param string $expireMonth
+     * @param string $cvv
+     * @param string $holderName
+     * @throws CardException
      */
     public function __construct(
         string $number,
@@ -44,6 +46,8 @@ class Card
     }
 
     /**
+     * Find card issuer from given bin list.
+     *
      * @return false|mixed
      */
     protected function resolveIssuer(){
@@ -78,12 +82,19 @@ class Card
         throw new CardException('Invalid card brand.');
     }
 
+    /**
+     * Credit card issuer.
+     *
+     * @return false|mixed|string|null
+     */
     public function getCardIssuer()
     {
         return $this->issuer;
     }
 
     /**
+     * Credit card pan number.
+     *
      * @return string
      */
     public function getNumber(): string
@@ -92,6 +103,8 @@ class Card
     }
 
     /**
+     * Credit card expire year.
+     *
      * @return string
      */
     public function getExpireYear(): string
@@ -100,6 +113,8 @@ class Card
     }
 
     /**
+     * Credit card expire month.
+     *
      * @return string
      */
     public function getExpireMonth(): string
@@ -108,6 +123,8 @@ class Card
     }
 
     /**
+     * Credit card cvv code.
+     *
      * @return string
      */
     public function getCvv(): string
@@ -116,6 +133,8 @@ class Card
     }
 
     /**
+     * Credit card owner name.
+     *
      * @return string
      */
     public function getHolderName(): string
@@ -124,6 +143,8 @@ class Card
     }
 
     /**
+     * Credit card type visa or mastercard
+     * .
      * @return string
      */
     public function getType(): string

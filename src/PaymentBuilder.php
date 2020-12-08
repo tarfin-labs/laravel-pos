@@ -19,6 +19,8 @@ class PaymentBuilder
     protected string $ip;
 
     /**
+     * The success url which will be triggered if payment is successful.
+     *
      * @param  string  $okUrl
      * @return PaymentBuilder
      */
@@ -29,6 +31,8 @@ class PaymentBuilder
     }
 
     /**
+     * The failure url which will be triggered if payment is failed.
+     *
      * @param  string  $failUrl
      * @return PaymentBuilder
      */
@@ -39,6 +43,8 @@ class PaymentBuilder
     }
 
     /**
+     * Set credit card object to the PaymentBuilder..
+     *
      * @param  Card  $card
      * @return PaymentBuilder
      */
@@ -50,6 +56,8 @@ class PaymentBuilder
     }
 
     /**
+     * Set order object to the PaymentBuilder.
+     *
      * @param  Order  $order
      * @return PaymentBuilder
      */
@@ -60,6 +68,8 @@ class PaymentBuilder
     }
 
     /**
+     * Set pos bank. If the bank is not set up, the bank that issued the credit card or default bank is selected.
+     *
      * @param  string  $bank
      * @return PaymentBuilder
      */
@@ -72,6 +82,8 @@ class PaymentBuilder
     }
 
     /**
+     * Get bank config variables from laravel config.
+     *
      * @return array
      */
     public function getBankConfig(): array
@@ -79,28 +91,46 @@ class PaymentBuilder
         return $this->bankConfig;
     }
 
+    /**
+     * If the bank is not set up, this method chooses the pos bank.
+     *
+     * @param $issuer
+     */
     public function setConfigWithIssuer($issuer)
     {
         $defaultBank = config('laravel-pos.default_bank');
+        $this->bank = $defaultBank;
         $this->bankConfig = config('laravel-pos.banks.'.$defaultBank);
 
-        if (!empty($issuer)) {
+        if ($issuer) {
             $bankConfigList = config('laravel-pos.banks');
             $result = array_filter($bankConfigList, function ($item) use ($issuer) {
                 return $item['name'] == $issuer;
             });
+
             if (count($result) > 0) {
                 $firstKey = key($result);
+                $this->bank = (string) $firstKey;
                 $this->bankConfig = config('laravel-pos.banks.'.$firstKey);
             }
         }
     }
 
+    /**
+     * Virtual merchant id for selected bank.
+     *
+     * @return mixed
+     */
     protected function getClientId()
     {
         return $this->bankConfig['merchant_id'];
     }
 
+    /**
+     * Create hash for request.
+     *
+     * @return string
+     */
     public function generateHash()
     {
         $hashKeys = [
@@ -118,6 +148,11 @@ class PaymentBuilder
         return base64_encode(pack('H*', sha1(implode('', $hashKeys))));
     }
 
+    /**
+     * Build request.
+     *
+     * @return array
+     */
     protected function build()
     {
         if (!$this->bankConfig) {
@@ -149,6 +184,11 @@ class PaymentBuilder
         ];
     }
 
+    /**
+     * Charge customer for the given amount with given credit card.
+     *
+     * @return \Illuminate\Http\Client\Response
+     */
     public function charge()
     {
         return Http::asForm()->post($this->bankConfig['base_url'], $this->build());
