@@ -71,6 +71,31 @@ class PaymentBuilder
         return $this;
     }
 
+    /**
+     * @return array
+     */
+    public function getBankConfig(): array
+    {
+        return $this->bankConfig;
+    }
+
+    public function setConfigWithIssuer($issuer)
+    {
+        $defaultBank = config('laravel-pos.default_bank');
+        $this->bankConfig = config('laravel-pos.banks.'.$defaultBank);
+
+        if (!empty($issuer)) {
+            $bankConfigList = config('laravel-pos.banks');
+            $result = array_filter($bankConfigList, function ($item) use ($issuer) {
+                return $item['name'] == $issuer;
+            });
+            if (count($result) > 0) {
+                $firstKey = key($result);
+                $this->bankConfig = config('laravel-pos.banks.'.$firstKey);
+            }
+        }
+    }
+
     protected function getClientId()
     {
         return $this->bankConfig['merchant_id'];
@@ -95,6 +120,10 @@ class PaymentBuilder
 
     protected function build()
     {
+        if (!$this->bankConfig) {
+            $this->setConfigWithIssuer($this->card->getCardIssuer());
+        }
+
         $hash = $this->generateHash();
 
         return [

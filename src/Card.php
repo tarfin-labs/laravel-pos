@@ -17,6 +17,7 @@ class Card
     protected string $cvv;
     protected string $holderName;
     protected string $type;
+    protected ?string $issuer;
 
     /**
      * Card constructor.
@@ -39,7 +40,25 @@ class Card
         $this->cvv = $cvv;
         $this->holderName = $holderName;
         $this->type = $this->getCardBrand();
+        $this->issuer = $this->resolveIssuer();
+    }
 
+    /**
+     * @return false|mixed
+     */
+    protected function resolveIssuer(){
+
+        if (file_exists(config('laravel-pos.bin_file_path'))){
+            $file = file_get_contents(config('laravel-pos.bin_file_path'));
+            $binList = json_decode($file, true);
+            $foundBin = array_filter($binList, function ($item) {
+                return $item['bin'] == substr($this->number,0,6);
+            });
+
+            return $foundBin[key($foundBin)]['bank'];
+        }
+
+        return false;
     }
 
     /**
@@ -61,23 +80,7 @@ class Card
 
     public function getCardIssuer()
     {
-        $file = file_get_contents(config('laravel-pos.bin_file_path'));
-        if (!$file){
-            return config('laravel-pos.default_bank');
-        }
-
-        $binList = json_decode($file, true);
-
-        $foundBin = array_filter($binList, function ($item) {
-            return $item['bin'] == substr($this->number,0,6);
-        });
-
-        if (count($foundBin) > 0){
-            return $foundBin[key($foundBin)]['bank'];
-        }
-        else{
-            return config('laravel-pos.default_bank');
-        }
+        return $this->issuer;
     }
 
     /**

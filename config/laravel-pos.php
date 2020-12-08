@@ -10,6 +10,7 @@ return [
     'bin_file_path' => env('LARAVEL_POS_BIN_FILE_PATH', 'resources/bin.json'),
     'banks' => [
         'ziraat' => [
+            'name' => env('LARAVEL_POS_ZIRAAT_BANK_NAME',''),
             'base_url' => env('LARAVEL_POS_ZIRAAT_BASE_URL',''),
             'merchant_id' => env('LARAVEL_POS_ZIRAAT_MERCHANT_ID', ''),
             'store_key' => env('LARAVEL_POS_ZIRAAT_STORE_KEY', ''),
