@@ -4,7 +4,6 @@
 namespace TarfinLabs\LaravelPos\Tests;
 
 
-use PHPUnit\Framework\TestCase;
 use TarfinLabs\LaravelPos\Card;
 use TarfinLabs\LaravelPos\Exceptions\CardException;
 
@@ -47,8 +46,8 @@ class CardTest extends FeatureTestCase
     public function TestDetectBankFromBinNumber(){
         $card = new Card('5401341234567891', '', '', '', '');
 
-        $foo = $card->getCardIssuer();
+        $cardIssuer = $card->getCardIssuer();
 
-        $this->assertSame($foo, 'T.C.ZİRAAT BANKASI A.Ş.');
+        $this->assertSame($cardIssuer, 'T.C.ZİRAAT BANKASI A.Ş.');
     }
 }
