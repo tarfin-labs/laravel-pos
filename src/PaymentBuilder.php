@@ -72,14 +72,14 @@ class PaymentBuilder
     /**
      * Set customer object to the PaymentBuilder.
      *
-     * @param Customer $customer
+     * @param  Customer  $customer
      * @return $this
      */
     public function customer(Customer $customer): PaymentBuilder
     {
         $this->customer = $customer;
 
-        return  $this;
+        return $this;
     }
 
     /**
@@ -198,7 +198,9 @@ class PaymentBuilder
             'bank'                            => $this->bank,
         ];
 
-        $requestParams = array_merge($requestParams, $this->customer);
+        if (!empty($this->customer)) {
+            $requestParams = array_merge($requestParams, $this->customer);
+        }
 
         return $requestParams;
     }

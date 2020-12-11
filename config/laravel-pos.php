@@ -6,7 +6,7 @@
 return [
     'currency' => env('LARAVEL_POS_CURRENCY', 949),
     'locale' => env('LARAVEL_POS_LOCALE','tr'),
-    'default_bank' => env('LARAVEL_POS_BANK','ziraat'),
+    'default_bank' => env('LARAVEL_POS_DEFAULT_BANK',''),//banks dizisindeki key
     'bin_file_path' => env('LARAVEL_POS_BIN_FILE_PATH', 'resources/bin.json'),
     'banks' => [
         'ZİRAAT BANKASI' => [

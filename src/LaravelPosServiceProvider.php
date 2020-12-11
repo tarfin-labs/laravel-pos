@@ -54,7 +54,7 @@ class LaravelPosServiceProvider extends ServiceProvider
 
         // Register the main class to use with the facade
         $this->app->singleton('laravel-pos', function () {
-            return new LaravelPos;
+            return new LaravelPos();
         });
     }
 }
