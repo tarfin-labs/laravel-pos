@@ -1,0 +1,4640 @@
+[
+    {
+        "id": "010",
+        "bin": 404591,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 413226,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 444676,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 444677,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 444678,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 454671,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 454672,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 454673,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 454674,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 469884,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 434528,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 513662,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 523529,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 530905,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 534981,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 540130,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 511885,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 540134,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 542374,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 547287,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 549449,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 527749,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 557844,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "010",
+        "bin": 525339,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 447504,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 407814,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 476619,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 482465,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 460952,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 434528,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 512440,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 516932,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 527682,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 528208,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 531102,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 533154,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 546957,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 676123,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 676124,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 979217,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 979280,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id":"010",
+        "bin": 511885,
+        "bank": "T.C.ZİRAAT BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 492094,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 492095,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 498852,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 415514,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 979244,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 540435,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 543081,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 552879,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 510056,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 521378,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 447505,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 440776,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 415515,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 421030,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 499821,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 451454,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 676258,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 588843,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 639001,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 526289,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "012",
+        "bin": 526290,
+        "bank": "T.HALK BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 493840,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 493841,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 493846,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 409084,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 411724,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 411944,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 411942,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 411943,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 416757,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 402940,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 411979,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 428945,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 415792,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 442671,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 479908,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 479909,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 459252,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 483703,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 483704,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 979230,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 540045,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 540046,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 542119,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 547244,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 542798,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 542804,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 552101,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 520017,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 554548,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 535355,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 522441,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 491005,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 434530,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 423478,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 483612,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 650052,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 589311,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 535576,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 537504,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "015",
+        "bin": 979250,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 440293,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 440294,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 427707,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 479227,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 406015,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 440247,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 440273,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 402458,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 402459,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 489494,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 489495,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 489496,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 459026,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 450918,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 455645,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 427308,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 438040,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 469188,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 416350,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 510138,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 510139,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 545124,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 510221,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 530853,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 512803,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 524839,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 524840,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 528920,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 553090,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 512753,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 524346,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 549998,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 550449,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 552207,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 545148,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 525314,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 542259,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 547985,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 519780,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 531531,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 534538,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 440295,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 440274,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 402142,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 447503,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 404315,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 413528,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 676578,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 606329,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 676406,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 527026,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 535217,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "032",
+        "bin": 532581,
+        "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 435508,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 435509,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 413252,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 432071,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 432072,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 425669,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 479680,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 557113,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 557829,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 552608,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 552609,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 521807,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 520932,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 512754,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 524347,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 553056,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 534253,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 474853,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 474854,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 479681,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 589004,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 516840,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 516841,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 521942,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 535280,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 535449,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "046",
+        "bin": 516643,
+        "bank": "AKBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 494063,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 494064,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 433383,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 433384,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 403836,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 411156,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 411157,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 411158,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 411159,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 459268,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 459286,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 525404,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 539703,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 521827,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 549208,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 530866,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 521394,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 547311,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 519753,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 510010,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 549394,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 423833,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 459068,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 489401,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 421086,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 589713,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 676832,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 516846,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 459268,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "059",
+        "bin": 527657,
+        "bank": "ŞEKERBANK T.A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 492186,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 492187,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 492193,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 490175,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 493845,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 427314,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 427315,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 403280,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 448472,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 403666,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 467293,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 467294,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 467295,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 461668,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 474151,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 404308,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 487074,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 487075,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 413836,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 428220,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 428221,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 432154,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 426886,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 426887,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 426888,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 486567,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 462274,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 482489,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 482490,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 482491,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 489478,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540036,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540037,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 542030,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540226,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540227,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 545102,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 554960,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 554796,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 552095,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 557023,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 544078,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 558699,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540669,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540709,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 521824,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 521825,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 521832,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 520922,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 520940,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 520988,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 528939,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 553130,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 514915,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 541865,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 521368,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 557945,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 534261,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 546001,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 547302,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 520097,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 522204,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 528956,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 533169,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 543738,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 548935,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 540118,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 526955,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 524659,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 554253,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 554254,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 622403,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 537829,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 538121,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 538124,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 538139,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 538196,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 549997,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 979205,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 401738,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 405051,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 410141,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 405090,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 426889,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 409219,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 420556,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 420557,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 489455,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 589318,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 676283,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 676255,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 676827,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 676651,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 517040,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 517041,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 517042,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 670606,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 517048,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 517049,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 516961,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 516943,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "062",
+        "bin": 535429,
+        "bank": "T.GARANTİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 450803,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 454318,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 454358,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 454359,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 454360,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 418342,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 418343,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 418344,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 418345,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 479610,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 438331,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 540667,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 540668,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 543771,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 552096,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 553058,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 510152,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 548237,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 650173,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 650987,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 454314,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 441075,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 441076,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 441077,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 483602,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 460925,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 589283,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 603125,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 535514,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 537548,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 650082,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 650092,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 650456,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "064",
+        "bin": 537567,
+        "bank": "T.İŞ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 479794,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 479795,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 492128,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 450634,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 492130,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 492131,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 455359,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 491205,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 491206,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 404809,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 446212,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 476625,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 476626,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 479620,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 420342,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 420343,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 542117,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 540061,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 540062,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 540063,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 545103,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 540122,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 540129,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 510054,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 552659,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 552645,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 533913,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 525864,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 494314,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 401622,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 490983,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 413382,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 414392,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 442106,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 479612,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 657366,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 639004,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 603797,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 676166,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 537833,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 516888,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "067",
+        "bin": 535601,
+        "bank": "YAPI VE KREDİ BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "092",
+        "bin": 471509,
+        "bank": "CITIBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "092",
+        "bin": 437897,
+        "bank": "CITIBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "092",
+        "bin": 553493,
+        "bank": "CITIBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "092",
+        "bin": 555087,
+        "bank": "CITIBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "096",
+        "bin": 529939,
+        "bank": "TURKISH BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "096",
+        "bin": 518599,
+        "bank": "TURKISH BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "096",
+        "bin": 552098,
+        "bank": "TURKISH BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "096",
+        "bin": 589288,
+        "bank": "TURKISH BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "096",
+        "bin": 677522,
+        "bank": "TURKISH BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "096",
+        "bin": 521594,
+        "bank": "TURKISH BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 455571,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 490805,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 490806,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 490807,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 414070,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 408579,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 420322,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 420323,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 420324,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 480296,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 400684,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 540024,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 540025,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 542029,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 548819,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 554297,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 542605,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 510151,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 547765,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 542965,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 542967,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 554570,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 532443,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 550074,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 526973,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 526975,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 517946,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 514140,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 531401,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 550478,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 490808,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 408581,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 479632,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 479633,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 535270,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 676402,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 603322,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 535137,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "099",
+        "bin": 676366,
+        "bank": "ING BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 522075,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 522566,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 527765,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 522576,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 559056,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 603343,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "103",
+        "bin": 434909,
+        "bank": "FIBABANKA A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "108",
+        "bin": 603005,
+        "bank": "TURKLAND BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "108",
+        "bin": 676429,
+        "bank": "TURKLAND BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 456057,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 456059,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 413729,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 413972,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 545769,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 545770,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 514025,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 558634,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 521875,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 527080,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 445988,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "109",
+        "bin": 589416,
+        "bank": "TEKSTİL BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 402277,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 402278,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 413583,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 415565,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 423398,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 423277,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 414388,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 422376,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 427311,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 435653,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 402563,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 409364,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 410147,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 444029,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 441007,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 403082,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 499850,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 499851,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 499852,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 442395,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 401072,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 545616,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 545847,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 547800,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 545120,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 521022,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 521836,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 519324,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 547567,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 531157,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 529572,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 530818,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 542404,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 526911,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 537058,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 539957,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 415956,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 406386,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 431379,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 420092,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 499853,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 498749,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 459333,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 479679,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 601050,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 677238,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "111",
+        "bin": 516835,
+        "bank": "FİNANS BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 405917,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 405918,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 424909,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 409071,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 405913,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 428240,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 422629,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 496019,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 408969,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 550472,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 550473,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 510005,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 552143,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 525413,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 542254,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 556030,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 556031,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 556033,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 556034,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 545183,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 519399,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 525795,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 556665,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 512651,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 540643,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 405919,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 405903,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 676401,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "123",
+        "bin": 677193,
+        "bank": "HSBC BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 466280,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 466281,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 466282,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 466283,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 522221,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 544836,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 516458,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 558485,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 516308,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 466284,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 627768,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "124",
+        "bin": 670670,
+        "bank": "ALTERNATİF BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 498516,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 498517,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 498518,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 498519,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 498520,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 498521,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 548202,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 548434,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 554034,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 558379,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 523759,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 414941,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "125",
+        "bin": 589298,
+        "bank": "BURGAN BANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 460345,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 460347,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 408625,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 403134,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 441139,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 409070,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 411924,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 424360,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 424361,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 423667,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 462276,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 489456,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 472914,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 489457,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 489458,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 472915,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 462448,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 462449,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 543358,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 543427,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 543400,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 554483,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 558514,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 510063,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 510118,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 510119,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 520019,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 520303,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 514924,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 512017,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 512117,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 558443,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 558446,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 558448,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 558460,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 552679,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 546764,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 529876,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 533330,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 522517,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 523515,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 549839,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 460346,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 465574,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 483747,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 476662,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 601912,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 517047,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 516731,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 670610,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 516740,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 516914,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 508129,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "134",
+        "bin": 529545,
+        "bank": "DENİZBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 425846,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 425847,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 425848,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 441341,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 522240,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 522241,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 558593,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 554301,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 535881,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 425849,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 603072,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "135",
+        "bin": 676460,
+        "bank": "ANADOLUBANK A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 453144,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 453145,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 453146,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 581877,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 534563,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 532813,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 535843,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 515456,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 453147,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 453148,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 453149,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 504166,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 528246,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 671121,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 671155,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 517343,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "143",
+        "bin": 534567,
+        "bank": "AKTİF YATIRIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 468791,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 468793,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 468794,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 468795,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 469180,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 469181,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 469183,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 469182,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 519261,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 522356,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 522347,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 522362,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 524677,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 526952,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 527369,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 536255,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 523416,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 519007,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 527396,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 468796,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 468797,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 670868,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "146",
+        "bin": 516944,
+        "bank": "ODEA BANK A.Ş",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 417715,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 432284,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 432285,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 424935,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 479671,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 423002,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 533796,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 434572,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 534264,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 548232,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 547234,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 511583,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 533973,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 417716,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 627510,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "203",
+        "bin": 677397,
+        "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 402589,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 402590,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 402592,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 403810,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 403360,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 410555,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 410556,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 431024,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 483673,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 512595,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 518896,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 520180,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 547564,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 525312,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 511660,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 527083,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 539803,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 402591,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 483714,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 483674,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 535748,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "205",
+        "bin": 677055,
+        "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 435627,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 435628,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 411685,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 404952,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 428462,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 498724,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 498725,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 470954,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 424927,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 424931,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 400742,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 441206,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 459907,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 479915,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 479916,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 479917,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 549294,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 537719,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 521848,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 512360,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 552610,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 528293,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 511758,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 511783,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 435629,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 485060,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 485061,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 416275,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 627161,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 677451,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "206",
+        "bin": 606043,
+        "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 402275,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 402276,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 416987,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 402280,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 441033,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 477206,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 515849,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 527585,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 524384,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 531334,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 552529,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 529462,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 547799,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 533149,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 407381,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 407112,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 627462,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "208",
+        "bin": 677131,
+        "bank": "ASYA KATILIM BANKASI A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "6003",
+        "bin": 533207,
+        "bank": "POSTA VE TELEFON TELGRAF TEŞKİLATI",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "6003",
+        "bin": 537608,
+        "bank": "POSTA VE TELEFON TELGRAF TEŞKİLATI",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "6003",
+        "bin": 979259,
+        "bank": "POSTA VE TELEFON TELGRAF TEŞKİLATI",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 520909,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 512446,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 515865,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 539605,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 549938,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 554566,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "CREDIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 404990,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 474823,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 677047,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 533293,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 516742,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 528825,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 515755,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 515895,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    },
+    {
+        "id": "900",
+        "bin": 521584,
+        "bank": "PROVUS BİLİŞİM HİZMETLERİ A.Ş.",
+        "card_type": "DEBIT CARD"
+    }
+]

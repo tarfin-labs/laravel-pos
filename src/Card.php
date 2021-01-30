@@ -50,8 +50,8 @@ class Card
      *
      * @return false|mixed
      */
-    protected function resolveIssuer(){
-
+    protected function resolveIssuer()
+    {
         if (file_exists(config('laravel-pos.bin_file_path'))){
             $file = file_get_contents(config('laravel-pos.bin_file_path'));
             $binList = json_decode($file, true);
