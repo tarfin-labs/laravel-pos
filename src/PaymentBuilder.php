@@ -93,7 +93,7 @@ class PaymentBuilder
     public function bank(string $bank): PaymentBuilder
     {
         $this->bank = $bank;
-        $this->bankConfig = config('laravel-pos.banks.'.$this->bank);
+        $this->bankConfig = config('laravel-pos.banks')[$this->bank];
 
         return $this;
     }
