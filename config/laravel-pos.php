@@ -14,6 +14,7 @@ return [
             'base_url' => env('LARAVEL_POS_ZIRAAT_BASE_URL',''),
             'merchant_id' => env('LARAVEL_POS_ZIRAAT_MERCHANT_ID', ''),
             'store_key' => env('LARAVEL_POS_ZIRAAT_STORE_KEY', ''),
+            'integrator' => env('LARAVEL_POS_INTEGRATOR', 'NestPay'),
         ]
     ]
 ];

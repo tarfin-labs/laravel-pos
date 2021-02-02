@@ -18,7 +18,7 @@ composer require tarfin-labs/laravel-pos
 Sonrasında config dosyasını ve migrationları publish etmeniz gerekmektedir:
 
 ```bash
-php artisan vendor:publish --provider="TarfinLabs/LaravelPos/LaravelPosServiceProvider"
+php artisan vendor:publish --provider="TarfinLabs\LaravelPos\LaravelPosServiceProvider"
 ```
 
 Konfigürasyonu tamamlamak için kullanacağız bankalara ait gerekli bilgileri config dosyasında tanımlayıp

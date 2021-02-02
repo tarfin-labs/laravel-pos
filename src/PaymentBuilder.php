@@ -5,19 +5,21 @@ namespace TarfinLabs\LaravelPos;
 
 
 use Illuminate\Support\Facades\Http;
+use TarfinLabs\LaravelPos\Integrators\NestPay;
 
 class PaymentBuilder
 {
-    protected string $okUrl;
-    protected string $failUrl;
-    protected string $bank;
-    protected Card $card;
-    protected array $bankConfig;
-    protected Order $order;
-    protected Customer $customer;
-    protected string $processType = 'Auth';
-    protected string $storeType = '3d_pay';
-    protected string $ip;
+    const INTEGRATOR_NESTPAY = 'NestPay';
+    public string $okUrl;
+    public string $failUrl;
+    public string $bank;
+    public Card $card;
+    public array $bankConfig;
+    public Order $order;
+    public Customer $customer;
+    public string $processType = 'Auth';
+    public string $storeType = '3d_pay';
+    public string $ip;
 
     /**
      * The success url which will be triggered if payment is successful.
@@ -136,7 +138,7 @@ class PaymentBuilder
      *
      * @return mixed
      */
-    protected function getClientId()
+    public function getClientId()
     {
         return $this->bankConfig['merchant_id'];
     }
@@ -208,10 +210,19 @@ class PaymentBuilder
     /**
      * Charge customer for the given amount with given credit card.
      *
-     * @return \Illuminate\Http\Client\Response
+     * @return false|\Illuminate\Http\Client\Response
      */
     public function charge()
     {
-        return Http::asForm()->post($this->bankConfig['base_url'], $this->build());
+        if (!$this->bankConfig) {
+            $this->setConfigWithIssuer($this->card->getCardIssuer());
+        }
+
+        if ($this->getBankConfig()['integrator'] == self::INTEGRATOR_NESTPAY) {
+            $nestPay = new NestPay($this);
+            return $nestPay->charge();
+        }
+
+        return false;
     }
 }
