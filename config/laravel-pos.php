@@ -9,7 +9,7 @@ return [
     'default_bank' => env('LARAVEL_POS_DEFAULT_BANK',''),
     'bin_file_path' => env('LARAVEL_POS_BIN_FILE_PATH', 'resources/bins.json'),
     'banks' => [
-        'T.C.ZİRAAT BANKASI A.Ş.' => [
+        'ziraat' => [
             'name' => env('LARAVEL_POS_ZIRAAT_BANK_NAME',''),
             'base_url' => env('LARAVEL_POS_ZIRAAT_BASE_URL',''),
             'merchant_id' => env('LARAVEL_POS_ZIRAAT_MERCHANT_ID', ''),

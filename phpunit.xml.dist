@@ -16,10 +16,10 @@
     </testsuites>
     <php>
         <env name="DB_CONNECTION" value="testing"/>
-        <env name="LARAVEL_POS_ZIRAAT_BASE_URL" value="https://entegrasyon.asseco-see.com.tr/fim/est3Dgate"/>
-        <env name="LARAVEL_POS_ZIRAAT_MERCHANT_ID" value="190200000"/>
-        <env name="LARAVEL_POS_ZIRAAT_STORE_KEY" value="123456"/>
-        <env name="LARAVEL_POS_ZIRAAT_BANK_NAME" value="T.C.ZİRAAT BANKASI A.Ş." />
-        <env name="LARAVEL_POS_DEFAULT_BANK" value="ZİRAAT BANKASI" />
+        <env name="LARAVEL_POS_ZIRAAT_BASE_URL" value=""/>
+        <env name="LARAVEL_POS_ZIRAAT_MERCHANT_ID" value=""/>
+        <env name="LARAVEL_POS_ZIRAAT_STORE_KEY" value=""/>
+        <env name="LARAVEL_POS_ZIRAAT_BANK_NAME" value="" />
+        <env name="LARAVEL_POS_DEFAULT_BANK" value="" />
     </php>
 </phpunit>
